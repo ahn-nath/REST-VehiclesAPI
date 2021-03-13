@@ -8,15 +8,9 @@ input. In this project, you will convert it to a microservice.
 ## Features
 
 - REST WebService integrated with Spring Boot
+- Unit Tests to check whether the application appropriately generates a price for a given vehicle ID
 
-## Instructions
-
-#### TODOs
-
-- Convert the Pricing Service to be a microservice.
-- Add an additional test to check whether the application appropriately generates a price for a given vehicle ID
-
-#### Run the code
+### Installation
 
 To run this service you execute:
 
