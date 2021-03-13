@@ -1,11 +1,10 @@
-# ND035-P02-VehiclesAPI-Project
+# REST Vehicles API
 
-Project repository for JavaND Project 2, where students implement a Vehicles API using Java and Spring Boot that can communicate with separate location and pricing services.
+A REST-based Vehicles API that communicates with a location and pricing service using Spring Boot, along with converting the existing Pricing Service API to a microservice registered on a Eureka server.
 
-## Instructions
+## Components
 
-Check each component to see its details and instructions. Note that all three applications
-should be running at once for full operation. Further instructions are available in the classroom.
+All three applications should be running at once for full operation. 
 
 - [Vehicles API](vehicles-api/README.md)
 - [Pricing Service](pricing-service/README.md)
